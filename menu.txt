@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1. krabby paty
+2. es teh anget
+=======
+1. krabby paty
+2. es teh anget
+>>>>>>> 0af732a1fd4da3e4896e7c94ebe778b96114c00c
